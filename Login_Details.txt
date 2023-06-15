@@ -1,2 +1,1 @@
-This File is supposed to contain Login Info
 Sample Login Credentials
